@@ -1,4 +1,5 @@
 Q. What percentage of users opened the email and what percentage clicked on the link within the email?
+
 Ans:
 The opened rate is 10.35% .
 The clicked rate is 2,12% .
