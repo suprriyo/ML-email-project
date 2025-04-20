@@ -18,5 +18,5 @@ When we are sending emails randomly, the click rate was 2.12%. After we trained 
 Q. Did you find any interesting pattern on how the email campaign performed for different segments of users? Explain.
 
 Ans:
-Upon doing data analysis, I found that people used to click on emails higher on Wednesday but tends to click low in Friday.
-Also the one who opened up the email has and 42% correlation score with the one who clicked the link inside the email.
+Upon doing data analysis, I found that people used to click on link inside emails higher on Wednesday but tends to click in links low in Friday.
+Also the one who opened up the email has and 0.42 correlation score with the one who clicked the link inside the email.
