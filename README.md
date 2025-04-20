@@ -2,7 +2,7 @@ Q. What percentage of users opened the email and what percentage clicked on the 
 
 Ans:
 The opened rate is 10.35% .
-The clicked rate is 2,12% .
+The clicked rate is 2.12% .
 
 Q. The VP of marketing thinks that it is stupid to send emails in a random way. Based on all the information you have about the emails that were sent, can you build a model to optimize in future how to send emails to maximize the probability of users clicking on the link inside the email?
 
